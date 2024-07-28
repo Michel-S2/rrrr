@@ -42,6 +42,7 @@ button {
     border-radius: 0.5;
     font-size: 1.25rem;
     font-weight: bold;
+    color: black;
 }
 
 .sim button:hover {
